@@ -8,12 +8,12 @@
 </p>
 
 - **Junior at Sitare University, Batch 2026**
-- 🏆 Creator of **[GramAI](https://github.com/your-repo-link)**, Winner of Ideafest 2024 and Sitare Hackathon 2023.
+- 🏆 Creator of **[GramAI](https://github.com/NarendraSinghChouhan/GramAi-languagelearningplatform)**, Winner of Ideafest 2024 and Sitare Hackathon 2023.
 - I’m currently working on **Weather Classification using Computer Vision**.
 - I’m currently learning **PyTorch and Advanced Web Development**.
 - 💬 Ask me about **Python, RAG Pipelines, and React Development**.
 - 📫 Reach me at **narendrasinghchouhan@example.com**.
-- 📄 Explore my experiences: <a href="https://your-resume-link" target="_blank" rel="noopener noreferrer">Resume</a>.
+- 📄 Explore my experiences: <a href="https://docs.google.com/document/d/1p0H-9P57rts7MzzkPOoavYPgpL73fLvVXNJoNT-speg/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendrasinghchouhan&show_icons=true&locale=en&layout=compact" alt="narendrasinghchouhan" /></p>
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/narendra-singh-chouhan" target="blank">
+  <a href="www.linkedin.com/in/narendra-singh-chouhan-19a68720b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendra-singh-chouhan" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/your-hackerrank" target="blank">
