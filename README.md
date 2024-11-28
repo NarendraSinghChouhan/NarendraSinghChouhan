@@ -12,7 +12,7 @@
 - I’m currently working on **Weather Classification using Computer Vision**.
 - I’m currently learning **PyTorch and Advanced Web Development**.
 - 💬 Ask me about **Python, RAG Pipelines, and React Development**.
-- 📫 Reach me at **narendrasinghchouhan@example.com**.
+- 📫 Reach me at **ns952140@gmail.com**.
 - 📄 Explore my experiences: <a href="https://docs.google.com/document/d/1p0H-9P57rts7MzzkPOoavYPgpL73fLvVXNJoNT-speg/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendrasinghchouhan&show_icons=true&locale=en&layout=compact" alt="narendrasinghchouhan" /></p>
@@ -26,14 +26,11 @@
   <a href="www.linkedin.com/in/narendra-singh-chouhan-19a68720b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="narendra-singh-chouhan" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/your-hackerrank" target="blank">
+  <a href="https://www.hackerrank.com/profile/ns952140" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="your-hackerrank" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/your-leetcode" target="blank">
+  <a href="https://leetcode.com/u/narendra__3006/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="your-leetcode" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/your-twitter" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" />
   </a>
 </p>
 
